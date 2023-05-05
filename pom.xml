@@ -6,7 +6,7 @@
     <artifactId>workout-app</artifactId>
     <version>1.0.1</version>
     <packaging>war</packaging>
-
+ 
     <name>workout-app</name>
 
     <properties>
